@@ -24,9 +24,9 @@ EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
-		Debug|x86 = Debug|x86
+		Debug|x86 = Debug|ARM
 		Release|x64 = Release|x64
-		Release|x86 = Release|x86
+		Release|x86 = Release|ARM
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{230AB062-FDCA-4D56-A781-0D3B9E8AE310}.Debug|x64.ActiveCfg = Debug|x64
