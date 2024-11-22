@@ -9,7 +9,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        platform: [x86, x64]
+        platform: [arm]
     runs-on: windows-latest
     env:
       PLATFORM: ${{ matrix.platform }}
